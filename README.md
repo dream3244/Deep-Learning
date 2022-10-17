@@ -10,7 +10,7 @@ Annual Project Plan in Freshman Year
 5. Investigate the theory of Predictive Adversarial Networks (PAN) based on Generative Adversarial Networks (GAN) 
 6. Perform experiments on different types of datasets and analyze the result.
 
-
+### acknowledgement: ZWS & ZCX
 
 
 ## PAN
