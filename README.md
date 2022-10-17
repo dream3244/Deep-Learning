@@ -1,7 +1,8 @@
 # Deep-Learning
 ## Med&DL
 Annual Project Plan in Freshman Year
-* Medical-Image-Analysis-based-on-Deep-Learning
+* Project Name: Medical-Image-Analysis-based-on-Deep-Learning
+* code: see the following repository : pytorch-cifar10 & pytorch_image_classification
 1. Investigate the development of Convolution Neural Networks (CNN), and the theory of 4 traditional CNN models: LeNet, VGG11, VGG13, and VGG16 to get a general understanding of Deep Learning networks in image classification. 
 2. Apply them to the CIFAR-10 dataset and analyze the result to put the theory into practice.
 3. Read a large amount of literature to determine further research direction.
