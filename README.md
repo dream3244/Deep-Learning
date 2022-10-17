@@ -31,6 +31,6 @@ Current Research Project
 CNN in Deep Learning
 Group Project of Oxford STEM summer online course
 
-1. Investigate the structures and algorithm principles of CNN models.
+1. Investigate the structures and algorithm principles, appliance, strengths and weaknesses of CNN models.
 2. Simulate the convolution procedure in the Gaussian filter using the C programming language.
 3. Slides making and presentation
