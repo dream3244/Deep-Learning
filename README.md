@@ -1,5 +1,5 @@
 # Deep-Learning & computer vision
-## Med&DL
+## 1. Med&DL
 Annual Project Plan in Freshman Year
 * Project Name: Medical-Image-Analysis-based-on-Deep-Learning
 * code: see the following repository : pytorch-cifar10 & pytorch_image_classification
@@ -13,7 +13,7 @@ Annual Project Plan in Freshman Year
 ### acknowledgement: ZWS & ZCX
 
 
-##  Predictive Adversarial Networks (PAN)
+##  2. Predictive Adversarial Networks (PAN)
 ## Medical Image Classification based on Predictive Adversarial Networks (JS-PAN)
 **Published**: Computer systems and applications (CN11-2854/TP， ISSN 1003-3254)
 DOI:  10.15888/J.CNKI.CSA.009270
