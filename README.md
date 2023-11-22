@@ -1,4 +1,4 @@
-# Deep-Learning
+# Deep-Learning & computer vision
 ## Med&DL
 Annual Project Plan in Freshman Year
 * Project Name: Medical-Image-Analysis-based-on-Deep-Learning
