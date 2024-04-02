@@ -1,6 +1,6 @@
 # Deep-Learning & computer vision
 ## 1. Med&DL
-Annual Project Plan in Freshman Year
+Annual Project Plan in Freshman Year 2021-2022
 * Project Name: Medical-Image-Analysis-based-on-Deep-Learning
 * code: see the following repository : pytorch-cifar10 & pytorch_image_classification
 1. Investigate the development of Convolution Neural Networks (CNN), and the theory of 4 traditional CNN models: LeNet, VGG11, VGG13, and VGG16 to get a general understanding of Deep Learning networks in image classification. 
@@ -9,8 +9,6 @@ Annual Project Plan in Freshman Year
 4. Explore the development and related networks of Positive Unlabeled Learning (PU Learning) and Adversarial Training.
 5. Investigate the theory of Predictive Adversarial Networks (PAN) based on Generative Adversarial Networks (GAN) 
 6. Perform experiments on different types of datasets and analyze the result.
-
-### acknowledgement: ZWS & ZCX
 
 
 ##  2. Predictive Adversarial Networks (PAN)
@@ -27,7 +25,7 @@ Description: This project focuses on Positive Unlabeled Learning (PU Learning) a
 
 ## CNN 
 CNN in Deep Learning
-Group Project of Oxford STEM summer online course
+Group Project of Oxford STEM summer online course 2021
 
 1. Investigate the structures and algorithm principles, appliance, strengths and weaknesses of CNN models.
 2. Simulate the convolution procedure in the Gaussian filter using the C programming language.
