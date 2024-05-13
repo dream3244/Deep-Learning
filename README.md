@@ -27,8 +27,6 @@ PDF: http://www.c-s-a.org.cn/csa/article/pdf/9270
 Supervised by Chun Li ( Mathematical department, Shenzhen MSU-BIT University (SMBU) )
 Description: This project focuses on Positive Unlabeled Learning (PU Learning) and Adversarial Training in medical image classification tasks. We investigate the theory of Predictive Adversarial Networks (PAN) based on Generative Adversarial Networks (GAN) and reconstruct the PAN model by proposing a new objective function based on JS divergence. Experimental results in our JS-PAN model on the Medical-MINST dataset show the effectiveness and robustness of our model.
 
-## 3.
-
 
 ## 3. Med&DL
 * Annual Project Plan in Freshman Year 2021-2022
